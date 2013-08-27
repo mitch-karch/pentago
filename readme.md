@@ -1,1 +1,1 @@
-Processing version of Pentago
+Processing version of pentago
